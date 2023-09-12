@@ -1,0 +1,11 @@
+keras==2.14.0
+matplotlib==3.5.2
+numpy==1.21.5
+optuna==3.3.0
+pandas==1.4.4
+protobuf==4.24.3
+scikit_learn==1.0.2
+scipy==1.9.1
+tensorflow==2.13.0
+tqdm==4.64.1
+XlsxWriter==3.0.3
