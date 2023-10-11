@@ -1,7 +1,7 @@
 # batmf
 This repository contains entire code that implements a framework designed for diverse Artificial Neural Network (ANN) architectures. While it includes a comprehensive range of functionalities, such as hyperparameter optimization, dataset partitioning, and predictions using pre-trained models, it also offers tools for statistical analysis, model comparisons, and an in-depth examination of dataset partitioning.
 
-** Temporarily moved cycle by cycle RUL to private repository before publishing research **
+**Temporarily moved cycle by cycle RUL to private repository before publishing research**
 
 ## Resources
 
