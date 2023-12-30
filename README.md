@@ -1,6 +1,9 @@
 # batmf
 This repository contains entire code that implements a framework designed for diverse Artificial Neural Network (ANN) architectures. While it includes a comprehensive range of functionalities, such as hyperparameter optimization, dataset partitioning, and predictions using pre-trained models, it also offers tools for statistical analysis, model comparisons, and an in-depth examination of dataset partitioning.
 
+## Research paper: 
+- Lee, J., Sun, H., Liu, Y., Li, X., 2024. A machine learning framework for remaining useful lifetime prediction of li-ion batteries using diverse neural networks. Energy and AI 15, 100319. https://doi.org/10.1016/j.egyai.2023.100319
+
 **Temporarily moved cycle by cycle RUL to private repository before publishing research**
 
 ## Resources
