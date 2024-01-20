@@ -1,6 +1,6 @@
 keras==2.14.0
 matplotlib==3.5.2
-numpy==1.21.5
+numpy==1.22.0
 optuna==3.3.0
 pandas==1.4.4
 protobuf==4.24.3
