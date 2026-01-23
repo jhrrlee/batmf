@@ -1,6 +1,6 @@
 matplotlib==3.5.2
 numpy==1.22.0
 pandas==1.4.4
-protobuf==4.24.3
+protobuf==7.34.0rc1
 scikit_learn==1.0.2
 tensorflow==2.13.0
